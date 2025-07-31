@@ -1,0 +1,10 @@
+Student_ID,Event_Name,Department,Year,Date,Speaker_Rating,Content_Rating,Overall_Satisfaction,Would_Recommend,Comments
+S101,TechTalk 2025,CSE,2nd,15-03-2025,4,5,4,Yes,"Great content, but Q&A was rushed."
+S102,TechTalk 2025,EEE,3rd,15-03-2025,3,4,3,Yes,"Good, but too long."
+S103,Workshop on AI,CSE,1st,10-04-2025,5,5,5,Yes,Very interactive and informative!
+S104,Workshop on AI,ME,2nd,10-04-2025,2,3,2,No,"Could not follow along, need simpler content."
+S105,Entrepreneurship Talk,BBA,1st,20-02-2025,4,4,4,Yes,Loved the speaker!
+S106,Entrepreneurship Talk,CSE,3rd,20-02-2025,5,5,5,Yes,Amazing session with real-world insights!
+S107,TechTalk 2025,IT,2nd,15-03-2025,3,4,3,No,Speaker was okay but repetitive content.
+S108,Workshop on AI,CSE,2nd,10-04-2025,4,4,4,Yes,Nice session but some slides had issues.
+S109,Entrepreneurship Talk,EEE,2nd,20-02-2025,2,3,2,No,Not relatable for non-management students.
